@@ -1,4 +1,3 @@
-pin36 att0=   314 att0_avg64=   313 att0_avg256=   313 att1=   3pin36 att0=   202 att0_avg64=   201 att0_avg256=   201 att1=   201 att1_avg64=   202 att1_avg256=   201 att2=   203 att2_avg64=   201 att2_avg256=   201 att3=   202 att3_avg64=   201 att3_avg256=   201 msampl64=   201
 pin36 att0=   202 att0_avg64=   201 att0_avg256=   201 att1=   202 att1_avg64=   201 att1_avg256=   201 att2=   203 att2_avg64=   201 att2_avg256=   201 att3=   200 att3_avg64=   201 att3_avg256=   201 msampl64=   201
 pin36 att0=   201 att0_avg64=   201 att0_avg256=   201 att1=   199 att1_avg64=   201 att1_avg256=   201 att2=   202 att2_avg64=   201 att2_avg256=   201 att3=   201 att3_avg64=   201 att3_avg256=   202 msampl64=   201
 pin36 att0=   202 att0_avg64=   202 att0_avg256=   201 att1=   202 att1_avg64=   201 att1_avg256=   201 att2=   203 att2_avg64=   201 att2_avg256=   202 att3=   201 att3_avg64=   202 att3_avg256=   201 msampl64=   202

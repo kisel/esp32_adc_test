@@ -1,4 +1,3 @@
-pin36 att0=  1063 att0_avg64=  1061 att0_avg256=  1061 att1=  10pin36 att0=   938 att0_avg64=   937 att0_avg256=   937 att1=   938 att1_avg64=   937 att1_avg256=   937 att2=   938 att2_avg64=   936 att2_avg256=   936 att3=   939 att3_avg64=   936 att3_avg256=   937 msampl64=   936
 pin36 att0=   935 att0_avg64=   936 att0_avg256=   936 att1=   935 att1_avg64=   936 att1_avg256=   937 att2=   935 att2_avg64=   936 att2_avg256=   936 att3=   938 att3_avg64=   936 att3_avg256=   936 msampl64=   936
 pin36 att0=   938 att0_avg64=   936 att0_avg256=   936 att1=   938 att1_avg64=   936 att1_avg256=   936 att2=   935 att2_avg64=   936 att2_avg256=   936 att3=   937 att3_avg64=   936 att3_avg256=   936 msampl64=   936
 pin36 att0=   935 att0_avg64=   936 att0_avg256=   936 att1=   935 att1_avg64=   935 att1_avg256=   936 att2=   937 att2_avg64=   936 att2_avg256=   935 att3=   935 att3_avg64=   935 att3_avg256=   936 msampl64=   936
